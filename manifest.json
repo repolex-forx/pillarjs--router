@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "pillarjs",
+  "repo": "router",
+  "versions": [
+    {
+      "commit": "e6d6b609fc355e558174ccd5b1db646f739fe88c",
+      "parsed_at": "2026-09-16T01:02:17.643593+00:00",
+      "tag": "v2.2.0",
+      "filetree": "filetree/e6d6b609fc355e558174ccd5b1db646f739fe88c.nq.gz",
+      "blobs": [
+        "blob/c39cc4936a927374396d0e92c4f49908e3b3539c.nq.gz",
+        "blob/b292257a44b2de8d9d5ea67ed958d1bd9bf7ab9b.nq.gz",
+        "blob/2fab2fbb949492af39475ed7e48cbf8e6e0cb2a2.nq.gz",
+        "blob/1887d7898ca101e3caa9128ab679a57065686be9.nq.gz",
+        "blob/dd51298b945edb7887f6689a9db8bd5a37c47b6c.nq.gz",
+        "blob/b4bcfac08298807660e8f05d0ec016f28ac25d82.nq.gz",
+        "blob/123eca28ee23642d490965db4fbfc28f7cb98d35.nq.gz",
+        "blob/b440e404ea19b94e27b0991e09b911b4f13605f3.nq.gz",
+        "blob/f15b98e249d653f23d7e121037bde0eae1817582.nq.gz",
+        "blob/cfedcac173f6a887bceab11d4022110453eed97a.nq.gz",
+        "blob/218fd5720f0dba9a507306325ff9e654a44918ce.nq.gz",
+        "blob/fe7019d464e04fcdac3789fc1526af3e289c7aae.nq.gz",
+        "blob/b62d4e16f4c8e13891c25bc2b2385cab9ee71abd.nq.gz",
+        "blob/237e1b67d3b34c1ea0b860e578694cae98fc7903.nq.gz",
+        "blob/8db59c3b3cdeeaec12711d83b78928d337a51bde.nq.gz",
+        "blob/d23de00e03e74ac28fcdc9eb28d3fd21087e4136.nq.gz",
+        "blob/4358aebddff7d665ae2012eb0ed4efaf95c2b2c8.nq.gz",
+        "blob/8eb4f63b01c9383d14fe2e49e52b7ca24964987e.nq.gz",
+        "blob/cdb36c1b4662559d2880d7a1ae9e65ca7497f47e.nq.gz",
+        "blob/6a4408ff3499e63fe95f77d50f11989a39cea860.nq.gz",
+        "blob/e8fca8a685a30a89a8e9129a2668b08e0c713a92.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
